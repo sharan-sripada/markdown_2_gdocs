@@ -22,12 +22,12 @@ A Python script that runs in Google Colab and converts markdown-formatted meetin
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/markdown-to-gdocs.git
+git clone https://github.com/sharan-sripada/markdown_2_gdocs.git
 ```
 
 2. Open [Google Colab](https://colab.research.google.com)
 
-3. Upload the `markdown_to_gdocs.ipynb` notebook to Colab:
+3. Upload the `markdown_2_gdocs.ipynb` notebook to Colab:
    - Click File → Upload notebook
    - Select the notebook from your cloned repository
 
@@ -49,12 +49,9 @@ The notebook will automatically install these dependencies:
 ## File Structure
 
 ```
-markdown-to-gdocs/
+markdown_2_gdocs/
 ├── README.md
 ├── markdown_to_gdocs.ipynb
-├── example/
-│   └── sample_meeting_notes.md
-└── requirements.txt
 ```
 
 ## Example Usage
